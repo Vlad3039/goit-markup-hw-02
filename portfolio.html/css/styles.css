@@ -1,5 +1,10 @@
 
-.portfolio-WebStudio{
+body{
+    font-family: "Roboto" sans-serif 
+}
+
+
+.portfolio-WebStudio_logo{
     font-weight: 800;
 font-size: 18px;
 line-height: 1,17px;
@@ -10,6 +15,13 @@ text-transform: uppercase;
 color: #4D5AE5;
 }
 
+.list{
+    list-style: none;
+}
+
+.link{
+    text-decoration: none; 
+ }
 
 .portfolio-studio{
     font-weight: 500;
