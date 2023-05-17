@@ -1,6 +1,8 @@
 
 body{
-    font-family: "Roboto" sans-serif
+    font-family: "Roboto" sans-serif;
+    color: #434455, var(--brand-color);
+    background-color: #FFFFFF
 }
 
 
