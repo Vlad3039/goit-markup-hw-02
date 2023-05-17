@@ -5,7 +5,7 @@ body{
 
 
 
-.webStudio_logo:hover sans-serif{
+.webStudio_logo{
     font-weight: 800;
     font-size: 18px;
     line-height: 1.17px;
@@ -18,7 +18,7 @@ body{
 
 
 
-.webstudio-html-logo sans-serif{
+.webstudio-html-logo{
     font-weight: 800;
 font-size: 18px;
 line-height: 1.17px;
