@@ -7,19 +7,19 @@ body{
 .portfolio-WebStudio_logo{
     font-weight: 800;
 font-size: 18px;
-line-height: 1,17px;
+line-height: 1,17;
 display: flex;
 align-items: center;
 letter-spacing: 0.03em;
 text-transform: uppercase;
 color: #4D5AE5;
 }
-
+ß
 
 .Webstudio-color-logo{
     font-weight: 800;
 font-size: 18px;
-line-height: 1,17px;
+line-height: 1,17;
 display: flex;
 align-items: center;
 letter-spacing: 0.03em;
@@ -38,14 +38,14 @@ color: #2E2F42;
 .portfolio-studio{
     font-weight: 500;
 font-size: 16px;
-line-height: 1,5px;
+line-height: 1,5;
 letter-spacing: 0.02em;
 color: #2E2F42;
 }
 .portfolio-mailto{ 
        font-weight: 400;
     font-size: 16px;
-    line-height: 1,5px;
+    line-height: 1,5;
     letter-spacing: 0.02em;
     color: #434455;
     }
@@ -54,7 +54,7 @@ color: #2E2F42;
 .portfolio_all{
     font-weight: 500;
     font-size: 16px;
-    line-height: 1,5px;
+    line-height: 1,5;
     display: flex;
     align-items: center;
     text-align: center;
@@ -66,7 +66,7 @@ color: #2E2F42;
 .portfolio_html{
     font-weight: 500;
 font-size: 16px;
-line-height: 1,50px;
+line-height: 1,50;
 display: flex;
 align-items: center;
 text-align: center;
@@ -78,7 +78,7 @@ color: #4D5AE5;
 .portfolio-tex{
     font-weight: 500;
 font-size: 20px;
-line-height: 1,2px;
+line-height: 1,2;
 letter-spacing: 0.02em;
 color: #2E2F42;
 }
@@ -86,7 +86,7 @@ color: #2E2F42;
 .portfolio_paragraf{
     nt-weight: 400;
     font-size: 16px;
-    line-height: 1,50px;
+    line-height: 1,50;
     letter-spacing: 0.02em;
     color: #434455; 
 }
