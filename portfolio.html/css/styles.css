@@ -17,7 +17,12 @@ letter-spacing: 0.03em;
 text-transform: uppercase;
 color: #4D5AE5;
 }
-ß
+
+
+
+
+
+
 
 .Webstudio-color-logo{
     font-weight: 800;
@@ -54,7 +59,7 @@ color: #2E2F42;
     }
 
 
-.portfolio_all{
+.portfolio_all-html{
     font-weight: 500;
     font-size: 16px;
     line-height: 1,5;
@@ -66,7 +71,7 @@ color: #2E2F42;
 }
 
 
-.portfolio_html{
+.portfolio_html-all{
     font-weight: 500;
 font-size: 16px;
 line-height: 1,50;
