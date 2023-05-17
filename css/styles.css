@@ -4,7 +4,8 @@ body{
 }
 
 
-.WebStudio_logo:hover sans-serif{
+
+.webStudio_logo:hover sans-serif{
     font-weight: 800;
     font-size: 18px;
     line-height: 1,17px;
@@ -12,15 +13,12 @@ body{
     align-items: center;
     letter-spacing: 0.03em;
     text-transform: uppercase;
-    color: #4D5AE5;
+    color: #4D5AE5;}
    
-}
 
-.WebStudio_logologo:hover{
-    color: #4D5AE5;
-}
 
-.Webstudio-html-logo sans-serif{
+
+.webstudio-html-logo sans-serif{
     font-weight: 800;
 font-size: 18px;
 line-height: 1,17px;
@@ -31,13 +29,11 @@ text-transform: uppercase;
 color: #2E2F42;
 }
 
-.Webstudio-html-logo:focus{
-    color: #2E2F42;
-}
 
 
 .item-menu {
-    font-weight: 500;
+font-weight: 500;
+ 
     font-size: 16px;
     line-height: 1,5px;
     letter-spacing: 0.02em;
