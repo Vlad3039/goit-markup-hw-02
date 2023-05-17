@@ -15,6 +15,18 @@ text-transform: uppercase;
 color: #4D5AE5;
 }
 
+
+.Webstudio-color-logo{
+    font-weight: 800;
+font-size: 18px;
+line-height: 1,17px;
+display: flex;
+align-items: center;
+letter-spacing: 0.03em;
+text-transform: uppercase;
+color: #2E2F42;
+}
+
 .list{
     list-style: none;
 }
