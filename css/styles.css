@@ -61,7 +61,7 @@ background-color: #2E2F42
     color: #434455;
 }
 
-.section-Effective{
+.section-effective-for{
     font-weight: 700;
     font-size: 56px;
     line-height: 1,07px;
@@ -69,6 +69,18 @@ background-color: #2E2F42
     text-align: center;
     letter-spacing: 0.02em;
     color:  #FFFFFF;;}
+
+
+.section-effective-order sans-serif{
+    font-weight: 500;
+font-size: 16px;
+line-height: 1,5px;
+display: flex;
+align-items: center;
+letter-spacing: 0.04em;
+color: #ffffff;
+}
+
 
 
 .Strategy-page{ 
