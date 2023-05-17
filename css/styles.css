@@ -48,7 +48,7 @@ font-weight: 500;
    text-decoration: none; 
 }
 .section{
-background-color: #2E2F42
+background-color: tomato
 ;
 }
 
@@ -130,6 +130,12 @@ text-transform: capitalize;
 color: #2E2F42;
 } 
 
+
+
+.section-team-our{
+    background-color: #F4F4FD
+
+}
 
 .name-team{
 font-weight: 500;
