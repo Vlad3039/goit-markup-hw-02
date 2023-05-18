@@ -6,186 +6,106 @@ body{
 }
 
 
-
-.webStudio_logo{
-    font-weight: 800;
-    font-size: 18px;
-    line-height: 1.17;
-    display: flex;
-    align-items: center;
-    letter-spacing: 0.03em;
-    text-transform: uppercase;
-    color: #4D5AE5;}
-   
-
-
-
-.webstudio-html-logo{
+.portfolio-WebStudio_logo{
     font-weight: 800;
 font-size: 18px;
-line-height: 1.17;
+line-height: 1,17;
 display: flex;
 align-items: center;
 letter-spacing: 0.03em;
 text-transform: uppercase;
-color: #F4F4FD
-;
-}
-.footer{
-    background-color: #2E2F42;
+color: #4D5AE5;
 }
 
 
-.item-menu {
-font-weight: 500;
- 
-    font-size: 16px;
-    line-height: 1,5;
-    letter-spacing: 0.02em;
-    
-    color: #2E2F42;}
- 
+.portfolio_all-html{
+    background-color: #404BBF
+}
+
+.portfolio_html-all:hover{
+    color:#404BBF ;
+}
+
+
+
+
+.portfolio_html-all:hover{
+    color:#404BBF ;
+}
+
+
+
+.Webstudio-color-logo{
+    font-weight: 800;
+font-size: 18px;
+line-height: 1,17;
+display: flex;
+align-items: center;
+letter-spacing: 0.03em;
+text-transform: uppercase;
+color: #2E2F42;
+}
+
 .list{
     list-style: none;
 }
 
 .link{
-   text-decoration: none; 
-}
-.section{
-background-color: #2e2f42
-;
-}
+    text-decoration: none; 
+ }
 
-.user-img{
-    font-weight: 400;
+.portfolio-studio:font-femeli:sans-serif{
+    font-weight: 500;
+font-size: 16px;
+line-height: 1,5;
+letter-spacing: 0.02em;
+color: #2E2F42;
+}
+.portfolio-mailto{ 
+       font-weight: 400;
     font-size: 16px;
-    line-height: 1.5;
-    
+    line-height: 1,5;
     letter-spacing: 0.02em;
     color: #434455;
+    }
+
+
+.portfolio_all-html:font-femeli:sans-serif{
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1,5;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.04em;
+    color: #FFFFFF; 
 }
 
-.section-effective-for{
-    font-weight: 700;
-    font-size: 1.07;
-    line-height:1.07;
 
-    text-align: center;
-    letter-spacing: 0.02em;
-    color:  #FFFFFF;;}
-
-
-.section-effective-order sans-serif{
+.portfolio_html-all:font-femeli:sans-serif{
     font-weight: 500;
 font-size: 16px;
-line-height: 1.5;
+line-height: 1,50;
 display: flex;
 align-items: center;
+text-align: center;
 letter-spacing: 0.04em;
-color: #ffffff;
+color: #4D5AE5;
 }
 
 
-
-.Strategy-page{ 
+.portfolio-tex{
     font-weight: 500;
 font-size: 20px;
-line-height: 1.2;
-letter-spacing: 0.02em;
-color: #2E2F42;
-
-}
-
-
-.Strategy-section{
-    background-color:#2e2f42
-
-}
-
-
-
-.section-devices-tims{
-    font-weight: 700;
-font-size: 36px;
-line-height: 1.11;
-text-align: center;
-letter-spacing: 0.02em;
-text-transform: capitalize;
-color: #2E2F42;
-}
-
-
-.paragraph-Strategy{
-    t-weight: 400;
-font-size: 16px;
-line-height: 1.5;
-letter-spacing: 0.02em;
-color: #434455;
-}
-
-
-.beginning-devices{
-    font-weight: 700;
-font-size: 36px;
-line-height: 1.11;
-text-align: center;
-letter-spacing: 0.02em;
-text-transform: capitalize;
-color: #2E2F42;
-}
-
-.Team-photo{
-    font-weight: 700;
-font-size: 36px;
-line-height: 1.11;
-
-text-align: center;
-letter-spacing: 0.02em;
-text-transform: capitalize;
-color: #2E2F42;
-} 
-
-
-
-
-
-
-
-.section-team-our{
-    background-color: #F4F4FD
-
-}
-
-.name-team{
-font-weight: 500;
-font-size: 20px;
-line-height: 1.2;
-text-align: center;
+line-height: 1,2;
 letter-spacing: 0.02em;
 color: #2E2F42;
 }
 
-.positions{
-    font-weight: 400;
-font-size: 16px;
-line-height: 1.5;
-text-align: center;
-letter-spacing: 0.02em;
-color: #434455;
-}
-
-.footer-Increase{
-    font-weight: 400;
-font-size: 16px;
-line-height: 1.5;
-letter-spacing: 0.02em;
-color: #F4F4FD;
-}
-
-.top-tims{
-    background-color: #FFFFFF  
-}
-.footer-color{
-    background-color:#2e2f42
+.portfolio_paragraf{
+    nt-weight: 400;
+    font-size: 16px;
+    line-height: 1,50;
+    letter-spacing: 0.02em;
+    color: #434455; 
 }
