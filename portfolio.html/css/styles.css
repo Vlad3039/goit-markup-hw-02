@@ -18,18 +18,11 @@ color: #4D5AE5;
 }
 
 
-
-
-.portfolio_html-all:hover{
-    color:#404BBF ;
+.portfolio_all-html{
+    background-color: #404BBF
 }
 
 
-
-
-.portfolio_all-html:hover{
-    color:#404BBF ;
-}
 
 
 
