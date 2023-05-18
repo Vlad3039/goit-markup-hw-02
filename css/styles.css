@@ -28,9 +28,12 @@ display: flex;
 align-items: center;
 letter-spacing: 0.03em;
 text-transform: uppercase;
-color: #2E2F42;
+color: #F4F4FD
+;
 }
-
+.footer{
+    background-color: #2E2F42;
+}
 
 
 .item-menu {
@@ -180,4 +183,9 @@ letter-spacing: 0.02em;
 color: #F4F4FD;
 }
 
-
+.top-tims{
+    background-color: #FFFFFF  
+}
+.footer-color{
+    background-color:#2e2f42
+}
