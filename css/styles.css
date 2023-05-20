@@ -52,7 +52,7 @@ color: #2E2F42;
 
 .Webstudio-color-fliv {
 font-size: 18px;
-line-height: 1.17px;
+line-height: 1.17;
 display: flex;
 align-items: center;
 letter-spacing: 0.03em;
@@ -67,7 +67,7 @@ color: #F4F4FD
 .portfolio-WebStudio-flov  { 
     font-weight: 800;
 font-size: 18px;
-line-height: 1.17px;
+line-height: 1.17;
 display: flex;
 align-items: center;
 letter-spacing: 0.03em;
@@ -158,7 +158,7 @@ background-color:#F4F4FD ;
 .section-devices-tims{
     font-weight: 700;
 font-size: 36px;
-line-height: 1.11px;
+line-height: 1.11;
 text-align: center;
 letter-spacing: 0.02em;
 text-transform: capitalize;
