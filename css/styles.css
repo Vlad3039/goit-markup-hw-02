@@ -46,6 +46,45 @@ text-transform: uppercase;
 color: #2E2F42;
 }
 
+
+
+
+
+.Webstudio-color-fliv{
+    ont-weight: 800;
+font-size: 18px;
+line-height: 1.17px;
+display: flex;
+align-items: center;
+letter-spacing: 0.03em;
+text-transform: uppercase;
+color: #F4F4FD
+;
+
+}
+
+
+
+.portfolio-WebStudio-flov{
+    font-weight: 800;
+font-size: 18px;
+line-height: 1.17px;
+display: flex;
+align-items: center;
+letter-spacing: 0.03em;
+text-transform: uppercase;
+color: #4D5AE5;
+}
+
+
+
+
+.logo{
+    background-color:#2E2F42 ;
+}
+
+
+
 .list{
     list-style: none;
 }
