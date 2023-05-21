@@ -60,8 +60,6 @@ body {
     font-weight: 800;
     font-size: 18px;
     line-height: 1.17;
-    display: flex;
-    align-items: center;
     letter-spacing: 0.03em;
     text-transform: uppercase;
   }
@@ -80,19 +78,6 @@ body {
     color: var(--white-color);
   }
   
-  /* .visually-hidden {
-    position: absolute;
-    width: 1px;
-    height: 1px;
-    margin: -1px;
-    border: 0;
-    padding: 0;
-    
-    white-space: nowrap;
-    clip-path: inset(100%);
-    clip: rect(0 0 0 0);
-    overflow: hidden;
-  } */
   
   /*-----HEADER-----*/
   
@@ -276,3 +261,4 @@ body {
     letter-spacing: 0.02em;
     color: #434455;
   }
+
